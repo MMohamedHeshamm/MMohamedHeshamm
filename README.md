@@ -17,7 +17,7 @@
 
 - 💼 Backend Engineer & Technical Project Coordinator at **EVA Pharma**
 - 🚀 Focused on building scalable backend solutions
-- 💻 Working with **C#, ASP.NET Core, REST APIs**
+- 💻 Working with **C#, ASP.NET Core, REST APIs, MVC**
 - 🗄️ Experienced with **SQL Server & Entity Framework Core**
 - 🌱 Learning **Clean Architecture, Design Patterns & System Design**
 - 🤝 Open to collaborating on .NET projects
