@@ -49,26 +49,6 @@ I'm a **Backend Engineer & Technical Project Coordinator at EVA Pharma**, focuse
 
 ---
 
-## 🚀 What I Do
-
-| | Focus | What I Work On |
-|:---:|---|---|
-| 🧩 | **Backend Development** | RESTful APIs and data-driven applications with C#, ASP.NET Core, EF Core, and SQL Server. |
-| 🔍 | **Code Quality & Architecture** | Reviewing code, APIs, database structures, and software design for maintainability. |
-| 🤝 | **Technical Coordination** | Mentoring teams, resolving blockers, and tracking software delivery milestones. |
-
----
-
-<img src="assets/h-architecture.svg" width="100%" alt="Software Architecture" />
-
-<div align="center">
-  <img src="assets/architecture.svg" width="100%" alt="Clean Architecture diagram: Domain, Application, Infrastructure, and API" />
-</div>
-
-**Clean Architecture** is one of the approaches I'm currently exploring in .NET: keeping domain logic at the center, organizing use cases in the application layer, and separating infrastructure concerns such as EF Core and database persistence. The diagram illustrates the architectural model I'm learning about; it does not claim that every project I've worked on uses this exact design.
-
----
-
 <img src="assets/h-stack.svg" width="100%" alt="Tech Stack" />
 
 **🚀 Backend Development**
@@ -110,6 +90,30 @@ I'm a **Backend Engineer & Technical Project Coordinator at EVA Pharma**, focuse
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+
+
+---
+
+## 🚀 What I Do
+
+| | Focus | What I Work On |
+|:---:|---|---|
+| 🧩 | **Backend Development** | RESTful APIs and data-driven applications with C#, ASP.NET Core, EF Core, and SQL Server. |
+| 🔍 | **Code Quality & Architecture** | Reviewing code, APIs, database structures, and software design for maintainability. |
+| 🤝 | **Technical Coordination** | Mentoring teams, resolving blockers, and tracking software delivery milestones. |
+
+---
+
+<img src="assets/h-architecture.svg" width="100%" alt="Software Architecture" />
+
+<div align="center">
+  <img src="assets/architecture.svg" width="100%" alt="Clean Architecture diagram: Domain, Application, Infrastructure, and API" />
+</div>
+
+**Clean Architecture** is one of the approaches I'm currently exploring in .NET: keeping domain logic at the center, organizing use cases in the application layer, and separating infrastructure concerns such as EF Core and database persistence. The diagram illustrates the architectural model I'm learning about; it does not claim that every project I've worked on uses this exact design.
+
+
+
 ---
 
 ## 🏆 Highlights
@@ -131,21 +135,7 @@ I'm a **Backend Engineer & Technical Project Coordinator at EVA Pharma**, focuse
 
 Explore more on my [GitHub repositories page](https://github.com/MMohamedHeshamm?tab=repositories).
 
----
 
-<img src="assets/h-stats.svg" width="100%" alt="GitHub Stats" />
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=MMohamedHeshamm&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="GitHub statistics" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=MMohamedHeshamm&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
 
 <img src="assets/h-connect.svg" width="100%" alt="Let's Connect" />
 
