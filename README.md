@@ -31,20 +31,11 @@ public sealed class MohamedHEldesouky
     public string Company => "EVA Pharma";
     public string Location => "Cairo, Egypt";
 
-    public string[] TechStack => new[]
-    {
-        "C#", "ASP.NET Core", "Entity Framework Core", "SQL Server"
-    };
+    public string[] TechStack => new[]{ "C#", "ASP.NET Core", "SQL Server" };
 
-    public string[] Focus => new[]
-    {
-        "RESTful APIs", "Code Reviews", "Technical Coordination"
-    };
+    public string[] Focus => new[]{ "RESTful APIs", "MVC Projects", "Technical Coordination" };
 
-    public string[] Learning => new[]
-    {
-        "Clean Architecture", "Design Patterns", "System Design"
-    };
+    public string[] Learning => new[]{ "Clean Architecture", "Design Patterns", "System Design" };
 
     public bool OpenToOpenSourceCollaboration => true;
 }
@@ -65,7 +56,6 @@ I'm a **Backend Engineer & Technical Project Coordinator at EVA Pharma**, focuse
 | 🧩 | **Backend Development** | RESTful APIs and data-driven applications with C#, ASP.NET Core, EF Core, and SQL Server. |
 | 🔍 | **Code Quality & Architecture** | Reviewing code, APIs, database structures, and software design for maintainability. |
 | 🤝 | **Technical Coordination** | Mentoring teams, resolving blockers, and tracking software delivery milestones. |
-| 🤖 | **AI & Deep Learning** | Built a GAN-based graduation project that converts sketches into realistic images. |
 
 ---
 
@@ -84,10 +74,9 @@ I'm a **Backend Engineer & Technical Project Coordinator at EVA Pharma**, focuse
 **🚀 Backend Development**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-00897B?style=for-the-badge)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **🗄️ Databases**
 
@@ -137,7 +126,6 @@ I'm a **Backend Engineer & Technical Project Coordinator at EVA Pharma**, focuse
 | Project | Description |
 |---|---|
 | [**Talabat API Solution**](https://github.com/MMohamedHeshamm/Talbat.G04.SolutionMan) | C# solution organized into API, Core, Repository, and Service projects. |
-| [**S2 API**](https://github.com/MMohamedHeshamm/S2-API) | ASP.NET API project with controllers, DTOs, models, and database migrations. |
 | [**Simple Marketplace**](https://github.com/MMohamedHeshamm/Simple-MarketPlace) | Online marketplace solution developed during .NET training. |
 | [**Online Shop — Flutter**](https://github.com/MMohamedHeshamm/Online-Shop-Flutter) | Cross-platform shopping app project built with Flutter and Dart. |
 
@@ -150,7 +138,6 @@ Explore more on my [GitHub repositories page](https://github.com/MMohamedHeshamm
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=MMohamedHeshamm&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MMohamedHeshamm&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=6" alt="Top languages" />
 
 <br/>
 
