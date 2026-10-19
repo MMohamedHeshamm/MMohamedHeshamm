@@ -3,16 +3,19 @@
 <img src="assets/hero.svg" width="100%" alt="Mohamed H. Eldesouky | Backend Engineer at EVA Pharma" />
 
 <br/>
-<br/><br/>
-<a href="https://www.linkedin.com/in/mohamedhhh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:mohamedheshameldesouky@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Cairo%2C_Egypt-1F3A5F?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Cairo, Egypt" />
 
 <br/><br/>
 
 <a href="https://github.com/MMohamedHeshamm">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Backend+Engineer+at+EVA+Pharma;Building+RESTful+APIs+with+ASP.NET+Core;C%23+%7C+EF+Core+%7C+SQL+Server;Code+Reviews+%7C+Mentorship+%7C+Delivery;Always+Learning+and+Building" alt="Animated introduction" />
 </a>
+
+<br/><br/>
+<a href="https://www.linkedin.com/in/mohamedhhh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mohamedheshameldesouky@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Cairo%2C_Egypt-1F3A5F?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Cairo, Egypt" />
+
+
 
 <br/>
 
