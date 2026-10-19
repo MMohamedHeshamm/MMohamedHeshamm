@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 110" width="900" height="110" role="img" aria-label="footer">
+<defs>
+  <style>
+    .draw { stroke-dasharray: 900; animation: draw 3s ease backwards; }
+    @keyframes draw { from { stroke-dashoffset: 600; } to { stroke-dashoffset: 0; } }
+    .node { animation: pulse 2.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.4); } }
+  </style>
+</defs>
+<rect width="900" height="110" rx="14" fill="#0d1117"/>
+<path class="draw" d="M40 70 H300 C330 70 330 40 360 40 H540 C570 40 570 70 600 70 H860" fill="none" stroke="#58a6ff" stroke-width="4" stroke-linecap="round"/>
+<g stroke="#0d1117" stroke-width="3">
+  <circle class="node" cx="40" cy="70" r="8" fill="#58a6ff"/>
+  <circle class="node" cx="360" cy="40" r="8" fill="#a371f7" style="animation-delay:.6s"/>
+  <circle class="node" cx="540" cy="40" r="8" fill="#3fb950" style="animation-delay:1.2s"/>
+  <circle class="node" cx="860" cy="70" r="9" fill="#ffffff" style="animation-delay:1.8s"/>
+</g>
+<text x="450" y="95" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b949e">Let's build something solid.</text>
+</svg>

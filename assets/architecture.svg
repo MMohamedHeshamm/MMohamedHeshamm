@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900" height="440" role="img" aria-label="Clean Architecture layers">
+<defs>
+  <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0 0L10 5L0 10z" fill="#58a6ff"/>
+  </marker>
+  <style>
+    .ring { transform-box: fill-box; transform-origin: center; animation: breathe 5s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { transform: scale(1); } 50% { transform: scale(1.02); } }
+    .flow { stroke-dasharray: 8 8; animation: dash 1.4s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -16; } }
+  </style>
+</defs>
+<rect width="900" height="440" rx="18" fill="#0d1117"/>
+<g class="ring"><circle cx="230" cy="220" r="190" fill="#a371f7" fill-opacity="0.12" stroke="#a371f7" stroke-width="2.5"/><circle cx="230" cy="220" r="135" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-width="2.5"/><circle cx="230" cy="220" r="80" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-width="2.5"/><text x="230" y="226" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#f0883e">Domain</text><text x="230" y="122" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#3fb950">Application</text><text x="230" y="67" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#a371f7">API  /  Infrastructure</text></g>
+<g stroke="#58a6ff" stroke-width="2.5" fill="none" marker-end="url(#ar)">
+  <line class="flow" x1="-10" y1="220" x2="42" y2="220" />
+</g>
+<text x="20" y="210" font-family="'Fira Code', 'SFMono-Regular', Consolas, monospace" font-size="12" fill="#58a6ff">request</text>
+
+<text x="520" y="62" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="800" fill="#ffffff">Clean Architecture</text>
+<text x="520" y="90" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8b949e">Dependencies always point inward.</text>
+<g>
+  <rect x="520" y="120" width="6" height="52" rx="3" fill="#f0883e"/>
+  <text x="542" y="142" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#f0f6fc">Domain</text>
+  <text x="542" y="164" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8b949e">Entities and business rules. No dependencies.</text>
+</g>
+<g>
+  <rect x="520" y="190" width="6" height="52" rx="3" fill="#3fb950"/>
+  <text x="542" y="212" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#f0f6fc">Application</text>
+  <text x="542" y="234" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8b949e">Use cases and interfaces.</text>
+</g>
+<g>
+  <rect x="520" y="260" width="6" height="52" rx="3" fill="#a371f7"/>
+  <text x="542" y="282" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#f0f6fc">Infrastructure</text>
+  <text x="542" y="304" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8b949e">EF Core, repositories, SQL Server.</text>
+</g>
+<g>
+  <rect x="520" y="330" width="6" height="52" rx="3" fill="#58a6ff"/>
+  <text x="542" y="352" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#f0f6fc">API</text>
+  <text x="542" y="374" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8b949e">ASP.NET Core controllers and endpoints.</text>
+</g>
+</svg>
