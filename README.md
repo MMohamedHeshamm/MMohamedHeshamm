@@ -3,7 +3,7 @@
 <img src="assets/hero.svg" width="100%" alt="Mohamed H. Eldesouky | Backend Engineer at EVA Pharma" />
 
 <br/>
-
+<br/><br/>
 <a href="https://www.linkedin.com/in/mohamedhhh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mohamedheshameldesouky@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Cairo%2C_Egypt-1F3A5F?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Cairo, Egypt" />
@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MMohamedHeshamm&amp;label=Profile%20Views&amp;color=0A66C2&amp;style=flat-square" alt="Profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=MMohamedHeshamm&amp;label=Profile%20Views&amp;color=0A66C2&amp;style=flat-square" alt="Profile views" /> -->
 
 </div>
 
