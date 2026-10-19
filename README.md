@@ -1,18 +1,64 @@
-# 💫 About Me:
-🔭 I’m currently working as a Backend Engineer & Technical Project Coordinator at EVA Pharma, focusing on backend development, code reviews, and software project delivery.<br><br>👯 I’m looking to collaborate on open-source .NET projects, RESTful APIs, and innovative backend solutions.<br><br>🤝 I’m looking for opportunities to contribute to scalable backend systems and impactful open-source projects.<br><br>🌱 I’m currently exploring Clean Architecture, Design Patterns, System Design, and advanced ASP.NET Core concepts.<br><br>💬 Ask me about C#, ASP.NET Core, RESTful APIs, Entity Framework Core, SQL Server, Git, and backend development.
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamedhhh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@mh-technical3072) 
+# Hi 👋, I'm Mohamed H. Eldesouky
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MMohamedHeshamm&theme=outrun&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MMohamedHeshamm&theme=outrun&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MMohamedHeshamm&theme=outrun&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Backend Engineer | .NET Developer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+at+EVA+Pharma;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Building+Scalable+RESTful+APIs;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MMohamedHeshamm&color=blue&style=flat-square)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=MMohamedHeshamm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 💼 Backend Engineer & Technical Project Coordinator at **EVA Pharma**
+- 🚀 Focused on building scalable backend solutions
+- 💻 Working with **C#, ASP.NET Core, REST APIs**
+- 🗄️ Experienced with **SQL Server & Entity Framework Core**
+- 🌱 Learning **Clean Architecture, Design Patterns & System Design**
+- 🤝 Open to collaborating on .NET projects
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,postman)](https://skillicons.dev)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-0078D4?style=for-the-badge)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=MMohamedHeshamm&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MMohamedHeshamm&theme=tokyonight)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MMohamedHeshamm&theme=tokyo-night)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedhhh)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mh-technical3072)
+
+</div>
