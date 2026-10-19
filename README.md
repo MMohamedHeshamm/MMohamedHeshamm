@@ -37,13 +37,12 @@
 
 ---
 
-## 📊 GitHub Analytics
+
+## 📈 GitHub Contribution Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=MMohamedHeshamm&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=MMohamedHeshamm&theme=tokyonight)
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMohamedHeshamm&theme=tokyonight)
 
 </div>
 
