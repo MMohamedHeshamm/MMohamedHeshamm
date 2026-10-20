@@ -40,9 +40,9 @@ public sealed class MohamedHEldesouky
 
     public string[] TechStack => new[]{ "C#", "ASP.NET Core", "SQL Server" };
 
-    public string[] Focus => new[]{ "RESTful APIs", "MVC Projects", "Technical Coordination" };
+    public string[] Focus     => new[]{ "RESTful APIs", "MVC Projects", "Technical Coordination" };
 
-    public string[] Learning => new[]{ "Clean Architecture", "Design Patterns", "System Design" };
+    public string[] Learning  => new[]{ "Clean Architecture", "Design Patterns", "System Design" };
 
     public bool OpenToOpenSourceCollaboration => true;
 }
